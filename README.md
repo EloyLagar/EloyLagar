@@ -7,7 +7,7 @@
 </p>
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Funny DEV GIF" height="220px" width="auto" align="right">
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EloyLaga)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EloyLagar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eloy-lagar-jaime-7b3161265/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/eloy.lagar/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eloylagarjaime@gmail.com)
