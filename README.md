@@ -3,8 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EloyLagar&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+
 <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Funny DEV GIF" height="220px" width="auto" align="right">
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EloyLagar)
