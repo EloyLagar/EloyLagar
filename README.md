@@ -5,7 +5,7 @@ GitHub LinkedIn Instagram Gmail Mostrar imagen
 
 🙋🏽 About me
 👨🏽‍💻 I'm currently working on personal projects to keep improving my skills.
-🌱 I'm learning how to use social network APIs.
+🌱 I'm learning about Hexagonal Arquitecture, DDD and improving my SOLID principles.
 👯 I'm looking to collaborate with Kike.
 🤔 I'm currently looking for a job — feel free to reach out!
 ⚽ Fun fact: I somehow survive the weekend football games in Valencia's lowest league.
