@@ -21,7 +21,13 @@
 ### 🎧 On repeat this month
 
 <!-- SPOTIFY:START -->
-_Loading my top track..._
+<a href="https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB"><img src="https://i.scdn.co/image/ab67616d00001e02025dc6c56e95fccbda35dd3f" width="80" align="left" alt="STORM II cover"></a>
+
+**[STORM II](https://open.spotify.com/track/4ipD5CMmWkehabGlAGTOBB)**  
+GENER8ION, Yung Lean  
+<sub>My most played track on Spotify in the last 4 weeks</sub>
+
+<br clear="left"/>
 <!-- SPOTIFY:END -->
 
 ### 📊 My GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35">
