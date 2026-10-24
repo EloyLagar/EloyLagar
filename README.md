@@ -11,9 +11,9 @@
 ### 🙋🏽 About me
 
 - 👨🏽‍💻 I'm currently working on personal projects to keep improving my skills.
-- 🌱 I'm learning how to use social network APIs.
+- 🌱 I'm learning how to implement hexagonal arquitecture in my projects.
 - 👯 I'm looking to collaborate with [Kike](https://github.com/enrtorgil).
-- 🤔 I'm currently looking for a job — feel free to reach out!
+- 🤔 I'm free so if you have some offer ➡️ <a herf="mailto:eloylagarjaime@gmail.com">eloylagarjaime@gmail.com</a>
 - ⚽ Fun fact: I somehow survive the weekend football games in Valencia's lowest league.
 
 <br clear="right"/>
