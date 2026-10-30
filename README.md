@@ -21,7 +21,7 @@
 ### 🎧 On repeat this week
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3"><img src="https://i.scdn.co/image/ab67616d00001e026c26679362f37b4903f9d926" width="80" align="left" alt="A Horse with No Name cover"></a>
+<a href="https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3"><img src="https://i.scdn.co/image/ab67616d00001e026c26679362f37b4903f9d926" width="150" align="left" alt="A Horse with No Name cover"></a>
 
 **[A Horse with No Name](https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3)**  
 America  
@@ -34,5 +34,5 @@ America
 
 <p>
   <img src="https://streak-stats.demolab.com?user=EloyLagar&theme=default&hide_border=true" alt="EloyLagar's GitHub streak" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EloyLagar&langs_count=10&layout=compact&theme=default&hide_border=true" alt="EloyLagar's top languages" height="180" />
+  <img src="assets/top-langs.svg" alt="EloyLagar's top languages" height="180" />
 </p>

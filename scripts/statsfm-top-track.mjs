@@ -31,7 +31,7 @@ if (!top) {
     ? `https://open.spotify.com/track/${spotifyId}`
     : `https://stats.fm/track/${track.id}`;
   block = [
-    `<a href="${url}"><img src="${cover}" width="80" align="left" alt="${name} cover"></a>`,
+    `<a href="${url}"><img src="${cover}" width="150" align="left" alt="${name} cover"></a>`,
     ``,
     `**[${name}](${url})**  `,
     `${artists}  `,
