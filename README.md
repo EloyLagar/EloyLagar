@@ -25,7 +25,7 @@
 
 **[A Horse with No Name](https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3)**  
 America  
-<sub>My most played track on Spotify in the last week · 29 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
+<sub>My most played track on Spotify in the last week · 30 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
 
 <br clear="left"/>
 <!-- SPOTIFY:END -->
