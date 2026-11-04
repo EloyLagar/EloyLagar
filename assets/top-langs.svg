@@ -8,35 +8,35 @@
   <text x="25" y="35" class="title">Most Used Languages</text>
   <mask id="bar-mask"><rect x="25" y="55" width="300" height="8" rx="5" fill="white"/></mask>
   <g mask="url(#bar-mask)">
-    <rect x="25.00" y="55" width="145.00" height="8" fill="#b07219"/>
-    <rect x="170.00" y="55" width="62.98" height="8" fill="#3178c6"/>
-    <rect x="232.98" y="55" width="42.29" height="8" fill="#4F5D95"/>
-    <rect x="275.27" y="55" width="38.26" height="8" fill="#f7523f"/>
-    <rect x="313.52" y="55" width="8.01" height="8" fill="#c6538c"/>
-    <rect x="321.54" y="55" width="3.04" height="8" fill="#563d7c"/>
+    <rect x="25.00" y="55" width="148.34" height="8" fill="#b07219"/>
+    <rect x="173.34" y="55" width="63.45" height="8" fill="#3178c6"/>
+    <rect x="236.80" y="55" width="40.44" height="8" fill="#4F5D95"/>
+    <rect x="277.24" y="55" width="36.59" height="8" fill="#f7523f"/>
+    <rect x="313.83" y="55" width="7.86" height="8" fill="#c6538c"/>
+    <rect x="321.69" y="55" width="2.91" height="8" fill="#563d7c"/>
   </g>
   <g transform="translate(25, 90)">
       <circle cx="5" cy="-4" r="5" fill="#b07219"/>
-      <text x="15" y="0" class="lang">Java 48.33%</text>
+      <text x="15" y="0" class="lang">Java 49.45%</text>
     </g>
     <g transform="translate(180, 90)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
-      <text x="15" y="0" class="lang">TypeScript 20.99%</text>
+      <text x="15" y="0" class="lang">TypeScript 21.15%</text>
     </g>
     <g transform="translate(25, 115)">
       <circle cx="5" cy="-4" r="5" fill="#4F5D95"/>
-      <text x="15" y="0" class="lang">PHP 14.10%</text>
+      <text x="15" y="0" class="lang">PHP 13.48%</text>
     </g>
     <g transform="translate(180, 115)">
       <circle cx="5" cy="-4" r="5" fill="#f7523f"/>
-      <text x="15" y="0" class="lang">Blade 12.75%</text>
+      <text x="15" y="0" class="lang">Blade 12.20%</text>
     </g>
     <g transform="translate(25, 140)">
       <circle cx="5" cy="-4" r="5" fill="#c6538c"/>
-      <text x="15" y="0" class="lang">SCSS 2.67%</text>
+      <text x="15" y="0" class="lang">SCSS 2.62%</text>
     </g>
     <g transform="translate(180, 140)">
       <circle cx="5" cy="-4" r="5" fill="#563d7c"/>
-      <text x="15" y="0" class="lang">CSS 1.01%</text>
+      <text x="15" y="0" class="lang">CSS 0.97%</text>
     </g>
 </svg>
