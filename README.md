@@ -21,11 +21,11 @@
 ### 🎧 On repeat this week
 
 <!-- SPOTIFY:START -->
-<a href="https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3"><img src="https://i.scdn.co/image/ab67616d00001e026c26679362f37b4903f9d926" width="150" align="left" alt="A Horse with No Name cover"></a>
+<a href="https://open.spotify.com/track/0rSMq0gQW1hgNVHark2pKO"><img src="https://i.scdn.co/image/ab67616d00001e021e60a81d4042ebf2175a127d" width="150" align="left" alt="Déjalo cover"></a>
 
-**[A Horse with No Name](https://open.spotify.com/track/3IniMhVtAD94ctx8Df4Fp3)**  
-America  
-<sub>My most played track on Spotify in the last week · 31 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
+**[Déjalo](https://open.spotify.com/track/0rSMq0gQW1hgNVHark2pKO)**  
+San Tosielo  
+<sub>My most played track on Spotify in the last week · 28 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
 
 <br clear="left"/>
 <!-- SPOTIFY:END -->
