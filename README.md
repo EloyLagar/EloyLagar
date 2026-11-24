@@ -21,11 +21,11 @@
 ### 🎧 On repeat this week
 
 <!-- SPOTIFY:START -->
-<a href="https://stats.fm/track/366315145"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/36/31/d8/3631d8c5-a385-7716-92a7-401c0ec6054f/885288495300.jpg/768x768bb.jpg" width="150" align="left" alt="El Endemoniao cover"></a>
+<a href="https://stats.fm/track/368601034"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e7/e8/70/e7e8703d-bab8-0943-bc0a-8c541a99bdbf/885288496932.jpg/768x768bb.jpg" width="150" align="left" alt="Icare (LFDL) cover"></a>
 
-**[El Endemoniao](https://stats.fm/track/366315145)**  
+**[Icare (LFDL)](https://stats.fm/track/368601034)**  
 Alcalá Norte  
-<sub>My most played track on Spotify in the last week · 28 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
+<sub>My most played track on Spotify in the last week · 29 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
 
 <br clear="left"/>
 <!-- SPOTIFY:END -->
