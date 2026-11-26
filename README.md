@@ -25,7 +25,7 @@
 
 **[Icare (LFDL)](https://stats.fm/track/368601034)**  
 Alcalá Norte  
-<sub>My most played track on Spotify in the last week · 29 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
+<sub>My most played track on Spotify in the last week · 30 plays · via <a href="https://stats.fm/viller">stats.fm</a></sub>
 
 <br clear="left"/>
 <!-- SPOTIFY:END -->
